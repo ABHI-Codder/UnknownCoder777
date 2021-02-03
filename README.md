@@ -14,7 +14,5 @@ I do Lua,JavaScript,Java,Python,CSS,Html. Not so pro lol 😅
 - 📧 Mail me on unknowncoder777@gmail.com for enquiries.
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=UnknownCoder777&show_icons=true&theme=radical)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=UnknownCoder777&repo=UnknownCoder777&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=febryardiansyah&repo=manga-api&theme=nightowl)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=febryardiansyah&layout=compact&theme=nightowl)
+
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownCoder777&layout=compact&theme=nightowl)
