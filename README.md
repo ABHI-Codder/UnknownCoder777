@@ -8,7 +8,7 @@
 
 - 📋 I code JavaScript,Java,Python,CSS,Html,Lua.
 - 📋 I do these but i'm noob at those,anyway.
-- 📁 I'll upload my projects here from now.!
+- ✏️  I'll upload my projects here from now.!
 - 
 
 
