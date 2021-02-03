@@ -15,4 +15,4 @@ I do Lua,JavaScript,Java,Python,CSS,Html. Not so pro lol 😅
 
 
 
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownCoder777&layout=compact&theme=nightowl)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownCoder777&layout=compact&theme=dark)
