@@ -14,14 +14,7 @@ I do Lua,JavaScript,Java,Python,CSS,Html. Not so pro lol 😅
 - 📧 Mail me on unknowncoder777@gmail.com for enquiries.
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownCoder777)](https://github.com/UnknownCoder777/github-readme-stats)
-<a href="https://github.com/UnknownCoder777/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UnknownCoder777&repo=UnknownCoder777" />
-</a>
-<a href="https://github.com/UnknownCoder777/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UnknownCoder777&repo=convoychat" />
-</a>
-
-
-
+![github stats](https://github-readme-stats.vercel.app/api?username=febryardiansyah&show_icons=true&theme=radical)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=febryardiansyah&repo=manga_mint&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=febryardiansyah&repo=manga-api&theme=nightowl)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=febryardiansyah&layout=compact&theme=nightowl)
