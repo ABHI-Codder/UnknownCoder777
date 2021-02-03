@@ -14,6 +14,9 @@ I do Lua,JavaScript,Java,Python,CSS,Html. Not so pro lol 😅
 - 📧 Mail me on unknowncoder777@gmail.com for enquiries.
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/UnknownCoder777)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
