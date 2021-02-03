@@ -6,7 +6,10 @@ Every ProCoders was once a noob. If i am a noob now i'll become pro once . ✌�
 
 I do Lua,JavaScript,Java,Python,CSS,Html. Not so pro lol 😅
 
-- 🔭 I’m currently working on this page. 
+- ➔ I do JavaScript,Java,Python,CSS,Html,Lua
+- ➔ I do these but i'm noob at those,anyway.
+
+
 
 
 
