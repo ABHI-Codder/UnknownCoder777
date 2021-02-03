@@ -1,17 +1,13 @@
-### Hi there 👋
+### Hello, Unknown Coder here.. 
+#### A Passionate Coder From South India . 
+![A Passionate Coder From South India . ](https://media.discordapp.net/attachments/805840626574688286/806388502224830474/banner.png)
 
-<!--
-**UnknownCoder777/UnknownCoder777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Every ProCoders was once a noob. If i am a noob now i'll become pro once . ✌🏼
 
-Here are some ideas to get you started:
+Skills: Lua/JavaScript/Java/Python/CSS/Html
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-> hey boy>
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
