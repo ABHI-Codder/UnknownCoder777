@@ -18,3 +18,5 @@ I do Lua,JavaScript,Java,Python,CSS,Html. Not so pro lol 😅
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownCoder777&layout=compact&theme=dark)
 
 
+# Languages and Tools
+<p align="left"> <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a> <a href="https://www.python.org/downloads/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a><a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Java" width="40" height="40"/> </a>
