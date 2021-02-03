@@ -4,7 +4,7 @@
 
 Every ProCoders was once a noob. If i am a noob now i'll become pro once . ✌🏼
 
-Skills: Lua/JavaScript/Java/Python/CSS/Html
+I do Lua,JavaScript,Java,Python,CSS,Html.Not so pro lol
 
 - 🔭 I’m currently working on this page. 
 
