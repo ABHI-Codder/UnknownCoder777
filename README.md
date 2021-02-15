@@ -1,6 +1,6 @@
 # Hello , Unknown Coder here.. 
 #### A Passionate Coder From South India . 
-![A Passionate Coder From South India . ](https://media.app.net/attachments/805840626574688286/806388502224830474/banner.png)
+![A Passionate Coder From South India . ](https://media.discordapp.net/attachments/758601390204387338/810706397825728523/banner.png)
 
 Every ProCoders was once a noob. If i am a noob now i'll become pro once . ✌🏼
 
